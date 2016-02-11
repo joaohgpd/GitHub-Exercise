@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GitHub Search</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="action_about">About</string>
+    <string name="action_settings">Settings</string>
+</resources>
